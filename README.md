@@ -1,6 +1,6 @@
 # Java Jenkins CI/CD Demo
 
-A sample Java project_2 demonstrating automated builds and continuous integration using **Jenkins** and **GitHub Webhooks**.
+A sample Java project_3 demonstrating automated builds and continuous integration using **Jenkins** and **GitHub Webhooks**.
 
 ---
 
