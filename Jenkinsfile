@@ -29,7 +29,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-                echo 'Stage 5: Deploying build artifacts...'
+                echo 'Stage 4: Deploying build artifacts...'
             }
         }
     }
