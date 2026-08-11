@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                echo 'Stage 1: Pulling latest code...'
+                echo 'Stage 1_1: Pulling latest code...'
                 checkout scm
             }
         }
